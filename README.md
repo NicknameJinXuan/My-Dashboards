@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/mingming.zhang6597/vizzes
 
 <div align="center">
     <h1>IMDB Top 100 Movies</h1>
-    <img src="https://github.com/NicknameJinXuan/My-Dashboards/assets/101912152/6efa020b-a6c1-4d32-af9b-d861941e1eb3" alt="image" width="400"/>
+    <img src="https://github.com/NicknameJinXuan/My-Dashboards/assets/101912152/6efa020b-a6c1-4d32-af9b-d861941e1eb3" alt="image" width="500" style="border:2px solid black;"/>
 </div>
 
 
